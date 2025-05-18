@@ -16,5 +16,3 @@
 
 <div align="center">
   
-[![Visits](https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&label=Profile+Views)](https://github.com/yourusername)
-  
