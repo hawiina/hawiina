@@ -1,7 +1,7 @@
-# ‧₊˚🖇️✩ ₊˚⊹♡ Hello! I'm @hawaxalie/@hawiina ( ˘͈ ᵕ ˘͈♡)
+# Hello! I'm @hawaxalie/@hawiina ( ˘͈ ᵕ ˘͈♡)
  **Biomedical Engineering** @ Yale 🎓 | **CS Minor** | **Frontend Alchemist** 
 
-🌌 ENTP 3w4 | 🧠 Neuro Researcher | 💻 YMeets Developer 
+🌌 ENTP 3w4 | 🧠 Neuro Researcher | 💻 YMeets Developer | Baker!! 🍰
 
 ## 🧪 Current Projects
 - **YMeets** - Yale's next-gen event platform (developer)
