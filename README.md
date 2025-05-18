@@ -2,10 +2,8 @@
 
 **Biomedical Engineering** @ Yale 🎓 | **CS Minor** | **Frontend Alchemist** 
 
-```text
 🌌 ENTP 3w4 | 🧠 Neuro Researcher | 💻 YMeets Developer 
 
-```
 ---
 
 ## 🧪 Current Projects
