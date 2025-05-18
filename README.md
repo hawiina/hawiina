@@ -1,4 +1,4 @@
-# ✨ Hello!
+# ✨ Hello! I'm @hawaxalie/@hawiina
 
 **Biomedical Engineering** @ Yale 🎓 | **CS Minor** | **Frontend Alchemist** 
 
@@ -6,15 +6,6 @@
 🌌 ENTP 3w4 | 🧠 Neuro Researcher | 💻 YMeets Developer 
 
 ```
-
-<div align="center">
-  
-[![Twitter](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-%23E60023?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/)
-  
-</div>
-
 ---
 
 ## 🧪 Current Projects
