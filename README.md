@@ -1,4 +1,4 @@
-Hello! I'm @hawaxalie/@hawiina ( ˘͈ ᵕ ˘͈♡)
+Hello! I'm @hawaxalie ( ˘͈ ᵕ ˘͈♡)
 Biomedical Engineering @ Yale 🎓 | CS Minor | Frontend Alchemist
 
 🌌 ENTP 3w4 | 🧠 Neuro Researcher | 💻 YMeets Developer | 🍰 Baker 
