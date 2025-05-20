@@ -3,7 +3,6 @@ Biomedical Engineering @ Yale 🎓 | CS Minor | Frontend Alchemist
 
 🧠 Neuro Researcher | 💻 YMeets Developer | 🍰 Baker 
 
-Current Projects
 - YMeets - Yale's event platform (developer)
 - Comp Neuro - Computational methods in neuroscience research
 - Lockify - Chrome extension to boost productivity (setting is important!)
