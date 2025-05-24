@@ -1,6 +1,6 @@
 Hello! I'm hawa ( ˘͈ ᵕ ˘͈♡)  
 Biomedical Engineering @ Yale 🎓 | CS Minor | Frontend Alchemist
-
+hawiina.carrd.co
 🧠 Neuro Researcher | 💻 YMeets Developer | 🍰 Baker 
 
 - YMeets - Yale's event platform (developer)
