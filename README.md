@@ -1,6 +1,5 @@
-Hello! I'm hawa ( ˘͈ ᵕ ˘͈♡)  
-Biomedical Engineering @ Yale 🎓 | CS Minor | Frontend Alchemist
-hawiina.carrd.co
+Hello! I'm hawa ( ˘͈ ᵕ ˘͈♡)  [carrd](https://hawiina.carrd.co/)  
+Biomedical Engineering @ Yale 🎓 | CS Minor | Frontend Alchemist  
 🧠 Neuro Researcher | 💻 YMeets Developer | 🍰 Baker 
 
 - YMeets - Yale's event platform (developer)
