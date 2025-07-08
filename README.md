@@ -1,4 +1,4 @@
-Hello! I'm hawa (˘͈ ᵕ ˘͈♡)  [carrd](https://hawiina.carrd.co/)  
+Hello! I'm hawa (˘͈ ᵕ ˘͈♡)  [carrd](https://havenoire.carrd.co/)  
 Biomedical Engineering @ Yale 🎓 | CS Minor 
 🧠 Neuro Researcher | 💻 YMeets Developer | 🍰 Baker 
 
